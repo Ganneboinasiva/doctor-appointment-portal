@@ -17,8 +17,8 @@ html_home = """
             padding: 0;
         }
         header {
-            background-color: #2e7d32;
-            color: white;
+            background-color: orange;
+            color: grey;
             padding: 1rem 2rem;
             text-align: center;
             position: relative;
