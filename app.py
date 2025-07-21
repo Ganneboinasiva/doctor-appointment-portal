@@ -78,7 +78,7 @@ html_home = """
 <body>
     <header>
         <img src="https://www.shutterstock.com/shutterstock/photos/2496772443/display_1500/stock-photo-portrait-of-a-emirates-male-medical-doctor-gentle-smile-light-on-centre-of-face-carrying-2496772443.jpg" class="logo" alt="Doctor Logo">
-        <h1>Online Doctor Consultation</h1>
+        <h1>Doctor-appointment-portal</h1>
     </header>
     <div class="container">
         <h2>Book Your Consultation</h2>
