@@ -8,7 +8,7 @@ html_home = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Online Doctor Consultation</title>
+    <title>Doctor-appointment-portal</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
